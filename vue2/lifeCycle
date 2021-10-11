@@ -1,0 +1,10 @@
+Thre are 8 steps in Vue life cycle. 
+
+1. before create
+2. cteated
+3. before Mount
+4. Mounted
+5. before update
+6. updated
+7. before distroy
+8. Ditroyed
